@@ -1,1 +1,6 @@
 23440005|VT Market
+49332498|HF Market
+415134123|Exness
+49420261|HF Market
+
+
